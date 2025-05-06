@@ -21,7 +21,7 @@ const UserPosts = ({ userId }: Props) => {
   return (
     <div>
       <Button type="primary" style={{ marginBottom: 16 }}>
-        Add Post
+      Tambah Post
       </Button>
       <Table
         dataSource={posts}
